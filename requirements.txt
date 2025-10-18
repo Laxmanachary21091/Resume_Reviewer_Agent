@@ -1,0 +1,9 @@
+# Resume Reviewer AI Agent - Requirements
+
+streamlit==1.38.0
+langchain==0.2.14
+langchain-openai==0.1.22
+openai==1.40.0
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+tiktoken==0.7.0
